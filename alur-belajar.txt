@@ -1,0 +1,5 @@
+Alur belajar javascript :
+
+1. Javascript Dasar
+2. Javascript DOM
+3. Javascript Lanjutan
